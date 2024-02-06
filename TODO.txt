@@ -1,0 +1,15 @@
+OVERVIEW
+- We decided on creating a Semantic Segmentation program by implementing publicly available code
+- We will then experiment on different architectures and pre-trained models across the cityscape dataset or another dataset
+- Our repo: https://github.com/cameronkelahan/VisCogRep
+- Can reference Moodle for example paper outline; already have an Overleaf started: https://www.overleaf.com/project/65ae9ef7722999d2c270d234
+- Example paper given by prof for semantic segmentation: https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf
+- full list of project ideas: https://docs.google.com/document/d/12KWSayU-sZjwNSrXPB9DEcwkrgjV5hdNH3Levd3Qb6M/edit#heading=h.hkhjaf5hritg
+
+TO-DO
+1) Implement CUDA on my pc 
+2) Follow a github guide to get started
+    (UNET example: https://github.com/milesial/Pytorch-UNet?tab=readme-ov-file#without-docker)
+    (DeepLabV3+ Example: https://www.kaggle.com/code/mobassir/deeplabv3-with-mobilenetv2)
+    (PSPNet Example: https://medium.com/analytics-vidhya/semantic-segmentation-in-pspnet-with-implementation-in-keras-4843d05fc025)
+    (Enet Example, only would be used for the encoder half of UNET architecture: https://pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/#download-the-code)
