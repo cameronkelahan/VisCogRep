@@ -161,5 +161,7 @@ cython_debug/
 
 # all files from the dataset directory
 coffee-datasets/
+# All files from UNet directory (contain the large saved model checkpoints)
 UNet/
+# All files from DeepLav directory (contain the large saved model checkpoints)
 DeepLab/
